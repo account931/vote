@@ -11,6 +11,13 @@
 
 	// отображение результатов
 	drawResults();
+
+
+//   deleting  vote  variants  are  not  implemented  yet.  
+// to implemenet  it  u have  to  
+// if(  ISSET($_GET['action'])  and $_GET['action']=='delete' ){
+          //  delete  from  db
+     
 	
 	
 ?>
