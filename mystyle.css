@@ -1,4 +1,7 @@
-body{background-image: url(http://karecampus.edu.in/images/White-wood-wallpaper31.jpg);}
+body{background-image: url("images/wall.jpg");   /*http://karecampus.edu.in/images/White-wood-wallpaper31.jpg*/
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+}
 /* http://cdn3.volusion.com/mache.udhvk/v/vspfiles/photos/M8966-PARENT-2.jpg */
 
 .delSpan{cursor:pointer;}
