@@ -1,0 +1,11 @@
+body{background-image: url(http://karecampus.edu.in/images/White-wood-wallpaper31.jpg);}
+/* http://cdn3.volusion.com/mache.udhvk/v/vspfiles/photos/M8966-PARENT-2.jpg */
+
+.delSpan{cursor:pointer;}
+
+
+* {text-shadow: 0 0 3px white;} 
+.white{text-shadow: 1px 1px 2px white, 0 0 1em white;}
+
+
+#fade{width:250px;/*display:none;*/}  //image{wanna  justice-new  job}
